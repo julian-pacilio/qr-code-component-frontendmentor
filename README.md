@@ -4,8 +4,8 @@
 
 <div align="center">
 
-[Live]()
-| [Solution]()
+[Live](https://julian-pacilio.github.io/qr-code-component-frontendmentor/)
+| [Solution](https://www.frontendmentor.io/solutions/qr-code-component-HElSjCM3cd)
 | [Challenge](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H)
 
 Solution for a challenge from [frontendmentor.io](https://www.frontendmentor.io/)
